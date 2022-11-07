@@ -1,0 +1,82 @@
+nav {
+font-family: fantasy;color: rgb(155, 176, 194);margin:0 ;padding: 0;width: auto;background-color: rgb(0, 44, 85); text-align: center;
+border: 2px solid rgb(179, 218, 255);
+border-radius: 10px;        -webkit-touch-callout: none;
+-webkit-user-select: none; 
+ -khtml-user-select: none; 
+   -moz-user-select: none; 
+    -ms-user-select: none; 
+        user-select: none;
+}
+nav ul{
+    
+    list-style-type: none;
+    display: -webkit-inline-box;
+
+}
+nav li{
+    margin: 10px; 
+}
+nav form{
+    display: inline-block;
+    text-indent: 5px;
+}
+nav button{
+    text-decoration: none;
+    background-color: skyblue;
+    font-family: fantasy;
+    padding-inline: 10px;
+}
+nav button:hover{
+    background-color: rgb(135, 152, 235);
+}
+nav a:hover{
+    background-color: rgb(135, 152, 235);}
+    nav a{
+        font-family: fantasy;
+        text-decoration: none;
+        border: 2px solid black;
+        background-color: skyblue;
+        color: #000;padding-inline: 10px;
+    }
+body{
+    background-color: rgb(78, 163, 135);
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    margin: 0 auto; 
+    float: none;
+    margin-bottom: 10px;
+
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container {
+    padding: 2px 16px;
+  }
+  .h4{
+    font-family: fantasy;color: skyblue;  -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: rgb(47, 110, 198);letter-spacing: px;
+  }
+  img {
+    border-radius: 15px 15px 0 0;
+  }
+  .center{
+    text-align: center;
+  }
+  .loas{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 0 auto; 
+    float: none;
+    margin-bottom: 10px;
+    background-color: rgb(39, 175, 130);
+
+  }
+  .i_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
